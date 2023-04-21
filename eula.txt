@@ -1,0 +1,30 @@
+End User License Agreement (EULA) for all StopCod applications and tools
+
+First Part: LoopCod DNA Editor
+With the LoopCod DNA Editor you can easily create and simulate an organism from scratch.
+You must read these rules just to make sure you follow them correctly:
+1. No Hacking/Exploiting: Hacking the application or seeing the application's code is forbidden.
+2. No stolen Product Keys: You can't use another person's Product Key. It is seen as stealing and
+can be punished in many ways depending from your country.
+
+Second Part: Cell Builder
+The cell builder is seen as an extension to the present LoopCod DNA Editor, as it can be used to
+create samples of cells you created in real life. We need to know what you create as it could be
+dangerous, so you need to follow these rules:
+1. You must make sure that your project is public to our website before proceeding.
+2. No Hacking/Exploiting: As the cell builder can only create cells that are public to everyone on
+our official website to ensure security, it is forbidden to hack or take advantage of not fixed bugs
+to create harmful organisms. Remember: this is not a game. It is real life.
+
+Third Part: Publishing your project online
+You must follow these simple rules:
+1. No Fake Websites: You are only allowed to publish your project to our official website.
+2. No Harmful For Natural (HFN) organisms: You cannot upload harmful organisms as they get
+rejected by our admin team and you get a warning. After three warnings your access to the website
+is revoked and depending from what you uploaded your Product Key will be disabled.
+
+Fourth Part: General Info
+You cannot use this piece of software to do illegal activities and you can't sell Product Keys online.
+The product key you're selling will be instantly disabled by our team.
+
+So now with a basic understanding of what you can and can't do... Let's get coding!
